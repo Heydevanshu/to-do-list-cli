@@ -1,15 +1,15 @@
-# 📝 To-Do List (CLI-Based Python Project)
+# ✅ To-Do List CLI App (Python)
 
-This is a simple Command Line Interface (CLI) based to-do list app written in Python.
+This is a simple **Command Line Interface (CLI)** based to-do list manager made using Python.  
+You can add, view, and manage your daily tasks directly from the terminal.
 
-## 📌 Features
-- Add new tasks
-- View all tasks
-- Mark tasks as complete
-- Delete tasks
-- Save tasks to a file
+## 🔧 Features
+- 📝 Add new task
+- ✅ Mark task as complete (planned)
+- ❌ Delete a task (planned)
+- 📄 Save and read tasks from a file
 
-## 💻 How to Run
+## 🚀 How to Run
 
 ```bash
 git clone https://github.com/Heydevanshu/to-do-list-cli.git
